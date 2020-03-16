@@ -1,6 +1,6 @@
 <?php
 
-namespace EvolutionCMS\Main\Components\SnippetResult\constants;
+namespace Indeximstudio\SnippetResult\constants;
 
 abstract class OutputModes
 {

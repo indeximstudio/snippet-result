@@ -1,9 +1,9 @@
 <?php
 
-namespace EvolutionCMS\Main\Components\SnippetResult\controllers;
+namespace Indeximstudio\SnippetResult\controllers;
 
-use EvolutionCMS\Main\Components\SnippetResult\constants\OutputModes;
-use EvolutionCMS\Main\Components\SnippetResult\exceptions\InvalidOutputModeException;
+use Indeximstudio\SnippetResult\constants\OutputModes;
+use Indeximstudio\SnippetResult\exceptions\InvalidOutputModeException;
 
 class SnippetResult
 {
